@@ -1,6 +1,6 @@
 # portfolio
 
-A new Flutter project.
+Portfolio devloped using flutter.
 
 ## Getting Started
 
